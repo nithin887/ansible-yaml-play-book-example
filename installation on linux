@@ -1,0 +1,9 @@
+Installation on Linux
+
+sudo apt. update
+sudo apt install ansible -y  # For Ubuntu/Debian
+bash
+Copy
+Edit
+sudo yum install epel-release -y
+sudo yum install ansible -y  # For RHEL/CentOS
